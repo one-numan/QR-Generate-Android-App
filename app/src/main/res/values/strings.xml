@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QR-Ganerator-Android-App</string>
+    <string name="qr_generator">QR Generator</string>
+    <string name="generate">Generate</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="enter_the_text">Enter the Text</string>
+</resources>
