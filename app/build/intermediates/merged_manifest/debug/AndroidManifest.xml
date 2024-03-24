@@ -2,11 +2,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.qr_ganerator_android_app"
     android:versionCode="1"
-    android:versionName="1.0" >
+    android:versionName="1.0.1" >
 
     <uses-sdk
         android:minSdkVersion="24"
-        android:targetSdkVersion="33" />
+        android:targetSdkVersion="34" />
 
     <permission
         android:name="com.example.qr_ganerator_android_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
