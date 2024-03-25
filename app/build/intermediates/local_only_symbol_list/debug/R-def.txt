@@ -1,5 +1,10 @@
 R_DEF: Internal format may change without notice
 local
+color Blue_1
+color Blue_2
+color Blue_3
+color Blue_4
+color Blue_5
 color black
 color ic_launcher_background
 color purple_200
@@ -9,6 +14,7 @@ color teal_200
 color teal_700
 color white
 drawable banner_intro
+drawable baseline_document_scanner_24
 drawable bottom_background_light_green
 drawable btn_1
 drawable btn_2
@@ -16,6 +22,7 @@ drawable btn_3
 drawable btn_4
 drawable btn_5
 drawable btn_6
+drawable button_background_blue1
 drawable circle_green
 drawable circle_white
 drawable circle_white_top
@@ -25,6 +32,8 @@ drawable green_banner
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable login_banner
+drawable outline_document_scanner_24
+drawable outline_wifi_calling_24
 drawable profile
 drawable signup_banner
 drawable twitter

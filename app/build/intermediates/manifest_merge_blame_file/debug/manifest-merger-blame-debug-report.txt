@@ -62,7 +62,7 @@
 35-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\hx041w\.gradle\caches\transforms-3\67a11b39af4c8d004f7fbafda0bf650b\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:44:9-33
 36
 37    <application
-37-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:5:5-31:19
+37-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:5:5-29:19
 38        android:allowBackup="true"
 38-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:6:9-35
 39        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -79,37 +79,36 @@
 45-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:10:9-41
 46        android:supportsRtl="true"
 46-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:11:9-35
-47        android:theme="@style/Theme.QRGaneratorAndroidApp" >
-47-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:12:9-59
-48        <activity
-48-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:14:9-16:40
-49            android:name="com.example.qr_ganerator_android_app.temp_activity"
-49-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:15:13-42
-50            android:exported="false" />
-50-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:16:13-37
-51        <activity
-51-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:17:9-19:40
-52            android:name="com.example.qr_ganerator_android_app.MainActivity"
-52-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:18:13-41
-53            android:exported="false" />
-53-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:19:13-37
-54        <activity
-54-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:20:9-30:20
-55            android:name="com.example.qr_ganerator_android_app.feature_list"
-55-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:21:13-41
-56            android:exported="true"
-56-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:22:13-36
-57            android:theme="@style/Theme.Design.NoActionBar" >
-57-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:24:13-60
+47        android:testOnly="true"
+48        android:theme="@style/Theme.QRGaneratorAndroidApp" >
+48-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:12:9-59
+49        <activity
+49-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:14:9-16:40
+50            android:name="com.example.qr_ganerator_android_app.temp_activity"
+50-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:15:13-42
+51            android:exported="false" />
+51-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:16:13-37
+52        <activity
+52-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:17:9-19:40
+53            android:name="com.example.qr_ganerator_android_app.MainActivity"
+53-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:18:13-41
+54            android:exported="false" />
+54-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:19:13-37
+55        <activity
+55-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:20:9-28:20
+56            android:name="com.example.qr_ganerator_android_app.feature_list"
+56-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:21:13-41
+57            android:exported="true" >
+57-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:22:13-36
 58            <intent-filter>
-58-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:25:13-29:29
+58-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:23:13-27:29
 59                <action android:name="android.intent.action.MAIN" />
-59-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:26:17-69
-59-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:26:25-66
+59-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:24:17-69
+59-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:24:25-66
 60
 61                <category android:name="android.intent.category.LAUNCHER" />
-61-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:28:17-77
-61-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:28:27-74
+61-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:26:17-77
+61-->C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:26:27-74
 62            </intent-filter>
 63        </activity>
 64

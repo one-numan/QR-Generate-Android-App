@@ -1331,6 +1331,11 @@ attr zxing_viewfinder_mask
 bool abc_action_bar_embed_tabs
 bool abc_config_actionMenuItemAllCaps
 bool mtrl_btn_textappearance_all_caps
+color Blue_1
+color Blue_2
+color Blue_3
+color Blue_4
+color Blue_5
 color abc_background_cache_hint_selector_material_dark
 color abc_background_cache_hint_selector_material_light
 color abc_btn_colored_borderless_text_material
@@ -2997,6 +3002,7 @@ drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
 drawable banner_intro
+drawable baseline_document_scanner_24
 drawable bottom_background_light_green
 drawable btn_1
 drawable btn_2
@@ -3012,6 +3018,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable button_background_blue1
 drawable circle_green
 drawable circle_white
 drawable circle_white_top
@@ -3116,6 +3123,8 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable outline_document_scanner_24
+drawable outline_wifi_calling_24
 drawable profile
 drawable signup_banner
 drawable test_level_drawable

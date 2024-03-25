@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/relativeLayout"
     android:layout_width="match_parent"
+
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
@@ -11,8 +12,9 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/qr_generator"
-        android:textSize="40sp"
+        android:text="Text To QR"
+        android:textColor="@color/Blue_1"
+        android:textSize="36sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
@@ -22,31 +24,32 @@
 
     <EditText
         android:id="@+id/etData"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="4dp"
-        android:layout_marginTop="116dp"
-        android:hint="@string/enter_text"
+        android:layout_width="375dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="132dp"
+        android:hint="Enter Your Text"
+
         android:inputType="text"
         android:minHeight="48dp"
-        android:text="@string/enter_the_text"
+        app:layout_constraintBottom_toTopOf="@+id/ivQRCode"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:ignore="MissingConstraints"
-        android:autofillHints="Enter The Text" />
+        app:layout_constraintVertical_bias="0.0"
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/btnGenerateQRcode"
-        android:layout_width="171dp"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="6dp"
-        android:layout_marginTop="336dp"
-        android:layout_marginEnd="-6dp"
+
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="52dp"
+        android:background="@drawable/button_background_blue1"
         android:text="@string/generate"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.475"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/etData"
+        app:layout_constraintTop_toBottomOf="@+id/ivQRCode"
         tools:ignore="MissingConstraints" />
 
     <ImageView
@@ -55,9 +58,10 @@
         android:layout_height="224dp"
 
         android:layout_marginStart="72dp"
-        android:layout_marginTop="208dp"
+        android:layout_marginTop="216dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         tools:ignore="MissingConstraints" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
