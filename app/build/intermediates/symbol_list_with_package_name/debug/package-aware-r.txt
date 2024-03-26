@@ -3030,7 +3030,6 @@ drawable design_snackbar_background
 drawable facebook
 drawable google
 drawable green_banner
-drawable ic_action_name
 drawable ic_arrow_back_black_24
 drawable ic_call_answer
 drawable ic_call_answer_low
@@ -3152,8 +3151,6 @@ id SHOW_PROGRESS
 id SYM
 id TOP_END
 id TOP_START
-id aaa
-id aaaa
 id accelerate
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
@@ -3239,6 +3236,11 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id btnGenerateQRcode
+id btn_call_to_qr
+id btn_msg_to_qr
+id btn_upi_to_qr
+id btn_url_to_qr
+id btn_whatsapp_to_qr
 id bubleImage
 id buttonPanel
 id cache_measures
@@ -3313,6 +3315,11 @@ id easeInOut
 id easeOut
 id east
 id edge
+id editText_call_to_qr
+id editText_msg_to_qr
+id editText_upi_to_qr
+id editText_url_to_qr
+id editText_whatsapp_to_qr
 id edit_query
 id edit_text_id
 id elastic
@@ -3368,6 +3375,7 @@ id iV_msg_to_QR
 id iV_text_to_QR
 id iV_upi_to_QR
 id iV_url_to_QR
+id iV_whatsapp_to_QR
 id iV_wts_to_QR
 id icon
 id icon_group
@@ -3384,7 +3392,8 @@ id inward
 id italic
 id item_touch_helper_previous_elevation
 id ivQRCode
-id ivQRCode2
+id iv_msg_to_qr
+id iv_url_to_qr
 id jumpToEnd
 id jumpToStart
 id labeled
@@ -3884,9 +3893,12 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 layout zxing_barcode_scanner
 layout zxing_capture
+mipmap animation_person
 mipmap ic_launcher
 mipmap ic_launcher_foreground
 mipmap ic_launcher_round
+mipmap logo_qr
+mipmap person
 plurals mtrl_badge_content_description
 raw zxing_beep
 string abc_action_bar_home_description

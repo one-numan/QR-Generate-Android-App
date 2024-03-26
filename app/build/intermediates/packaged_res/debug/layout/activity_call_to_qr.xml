@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".Call_to_qr">
     <ImageView
-        android:id='@+id/ivQRCode2'
+        android:id='@+id/iV_call_to_QR'
         android:layout_width="264dp"
         android:layout_height="224dp"
 
@@ -14,7 +14,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/aaa"
+        app:layout_constraintTop_toBottomOf="@+id/editText_call_to_qr"
         tools:ignore="MissingConstraints" />
 
     <TextView
@@ -32,7 +32,7 @@
         tools:ignore="MissingConstraints" />
 
     <EditText
-        android:id="@+id/aaa"
+        android:id="@+id/editText_call_to_qr"
         android:layout_width="283dp"
         android:layout_height="48dp"
         android:layout_marginStart="20dp"
@@ -52,7 +52,7 @@
         />
 
     <Button
-        android:id="@+id/aaaa"
+        android:id="@+id/btn_call_to_qr"
 
         android:layout_width="200dp"
         android:layout_height="50dp"
@@ -62,6 +62,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/ivQRCode2"
+        app:layout_constraintTop_toBottomOf="@+id/iV_call_to_QR"
         tools:ignore="MissingConstraints" />
 </androidx.constraintlayout.widget.ConstraintLayout>

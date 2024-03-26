@@ -1,3 +1,0 @@
-com.example.qr_ganerator_android_app.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme

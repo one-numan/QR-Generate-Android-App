@@ -6,15 +6,14 @@
     android:layout_height="match_parent"
     tools:context=".Msg_to_qr">
     <ImageView
-        android:id='@+id/ivQRCode2'
+        android:id='@+id/iv_msg_to_qr'
         android:layout_width="264dp"
         android:layout_height="224dp"
-
         android:layout_marginTop="40dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/aaa"
+        app:layout_constraintTop_toBottomOf="@+id/editText_msg_to_qr"
         tools:ignore="MissingConstraints" />
 
     <TextView
@@ -32,7 +31,7 @@
         tools:ignore="MissingConstraints" />
 
     <EditText
-        android:id="@+id/aaa"
+        android:id="@+id/editText_msg_to_qr"
         android:layout_width="283dp"
         android:layout_height="48dp"
         android:layout_marginStart="20dp"
@@ -52,8 +51,7 @@
         />
 
     <Button
-        android:id="@+id/aaaa"
-
+        android:id="@+id/btn_msg_to_qr"
         android:layout_width="200dp"
         android:layout_height="50dp"
         android:layout_marginTop="40dp"
@@ -62,6 +60,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/ivQRCode2"
+        app:layout_constraintTop_toBottomOf="@+id/iv_msg_to_qr"
         tools:ignore="MissingConstraints" />
 </androidx.constraintlayout.widget.ConstraintLayout>

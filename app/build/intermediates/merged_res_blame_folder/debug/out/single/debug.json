@@ -92,6 +92,10 @@
         "source": "com.example.qr_ganerator_android_app-main-35:/layout/activity_msg_to_qr.xml"
     },
     {
+        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/mipmap-xxhdpi_person.png.flat",
+        "source": "com.example.qr_ganerator_android_app-main-35:/mipmap-xxhdpi/person.png"
+    },
+    {
         "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable_bottom_background_light_green.xml.flat",
         "source": "com.example.qr_ganerator_android_app-main-35:/drawable/bottom_background_light_green.xml"
     },
@@ -108,16 +112,16 @@
         "source": "com.example.qr_ganerator_android_app-main-35:/drawable-hdpi/signup_banner.png"
     },
     {
+        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/mipmap-hdpi_animation_person.png.flat",
+        "source": "com.example.qr_ganerator_android_app-main-35:/mipmap-hdpi/animation_person.png"
+    },
+    {
+        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/mipmap-mdpi_logo_qr.png.flat",
+        "source": "com.example.qr_ganerator_android_app-main-35:/mipmap-mdpi/logo_qr.png"
+    },
+    {
         "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-mdpi_facebook.png.flat",
         "source": "com.example.qr_ganerator_android_app-main-35:/drawable-mdpi/facebook.png"
-    },
-    {
-        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-xxhdpi_person.png.flat",
-        "source": "com.example.qr_ganerator_android_app-main-35:/drawable-xxhdpi/person.png"
-    },
-    {
-        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-hdpi_person.png.flat",
-        "source": "com.example.qr_ganerator_android_app-main-35:/drawable-hdpi/person.png"
     },
     {
         "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-ldpi_banner_intro.png.flat",
@@ -126,6 +130,10 @@
     {
         "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-hdpi_login_banner.png.flat",
         "source": "com.example.qr_ganerator_android_app-main-35:/drawable-hdpi/login_banner.png"
+    },
+    {
+        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/mipmap-xxxhdpi_animation_person.png.flat",
+        "source": "com.example.qr_ganerator_android_app-main-35:/mipmap-xxxhdpi/animation_person.png"
     },
     {
         "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-hdpi_btn_3.png.flat",
@@ -204,8 +212,8 @@
         "source": "com.example.qr_ganerator_android_app-main-35:/drawable-ldpi/circle_green.png"
     },
     {
-        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-xxhdpi_ic_action_name.png.flat",
-        "source": "com.example.qr_ganerator_android_app-main-35:/drawable-xxhdpi/ic_action_name.png"
+        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/mipmap-xhdpi_logo_qr.png.flat",
+        "source": "com.example.qr_ganerator_android_app-main-35:/mipmap-xhdpi/logo_qr.png"
     },
     {
         "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-xhdpi_btn_3.png.flat",
@@ -316,10 +324,6 @@
         "source": "com.example.qr_ganerator_android_app-main-35:/drawable-hdpi/banner_intro.png"
     },
     {
-        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-xxxhdpi_person.png.flat",
-        "source": "com.example.qr_ganerator_android_app-main-35:/drawable-xxxhdpi/person.png"
-    },
-    {
         "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-xxxhdpi_circle_white_top.png.flat",
         "source": "com.example.qr_ganerator_android_app-main-35:/drawable-xxxhdpi/circle_white_top.png"
     },
@@ -332,24 +336,28 @@
         "source": "com.example.qr_ganerator_android_app-main-35:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-mdpi_circle_white.png.flat",
-        "source": "com.example.qr_ganerator_android_app-main-35:/drawable-mdpi/circle_white.png"
+        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-mdpi_green_banner.png.flat",
+        "source": "com.example.qr_ganerator_android_app-main-35:/drawable-mdpi/green_banner.png"
     },
     {
         "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-xxhdpi_twitter.png.flat",
         "source": "com.example.qr_ganerator_android_app-main-35:/drawable-xxhdpi/twitter.png"
     },
     {
-        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-mdpi_green_banner.png.flat",
-        "source": "com.example.qr_ganerator_android_app-main-35:/drawable-mdpi/green_banner.png"
+        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-mdpi_circle_white.png.flat",
+        "source": "com.example.qr_ganerator_android_app-main-35:/drawable-mdpi/circle_white.png"
     },
     {
         "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-ldpi_twitter.png.flat",
         "source": "com.example.qr_ganerator_android_app-main-35:/drawable-ldpi/twitter.png"
     },
     {
-        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-mdpi_ic_action_name.png.flat",
-        "source": "com.example.qr_ganerator_android_app-main-35:/drawable-mdpi/ic_action_name.png"
+        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/mipmap-hdpi_person.png.flat",
+        "source": "com.example.qr_ganerator_android_app-main-35:/mipmap-hdpi/person.png"
+    },
+    {
+        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/mipmap-mdpi_animation_person.png.flat",
+        "source": "com.example.qr_ganerator_android_app-main-35:/mipmap-mdpi/animation_person.png"
     },
     {
         "merged": "com.example.qr_ganerator_android_app-merged_res-33:/mipmap-xxxhdpi_ic_launcher.png.flat",
@@ -380,12 +388,16 @@
         "source": "com.example.qr_ganerator_android_app-main-35:/drawable-xhdpi/banner_intro.png"
     },
     {
-        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/layout_activity_main.xml.flat",
-        "source": "com.example.qr_ganerator_android_app-main-35:/layout/activity_main.xml"
+        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/mipmap-xhdpi_person.png.flat",
+        "source": "com.example.qr_ganerator_android_app-main-35:/mipmap-xhdpi/person.png"
     },
     {
         "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-xxhdpi_signup_banner.png.flat",
         "source": "com.example.qr_ganerator_android_app-main-35:/drawable-xxhdpi/signup_banner.png"
+    },
+    {
+        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.example.qr_ganerator_android_app-main-35:/layout/activity_main.xml"
     },
     {
         "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-hdpi_circle_green.png.flat",
@@ -414,10 +426,6 @@
     {
         "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-xxhdpi_banner_intro.png.flat",
         "source": "com.example.qr_ganerator_android_app-main-35:/drawable-xxhdpi/banner_intro.png"
-    },
-    {
-        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-xxxhdpi_ic_action_name.png.flat",
-        "source": "com.example.qr_ganerator_android_app-main-35:/drawable-xxxhdpi/ic_action_name.png"
     },
     {
         "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-xhdpi_twitter.png.flat",
@@ -452,16 +460,16 @@
         "source": "com.example.qr_ganerator_android_app-main-35:/drawable-mdpi/circle_white_top.png"
     },
     {
+        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/mipmap-xhdpi_animation_person.png.flat",
+        "source": "com.example.qr_ganerator_android_app-main-35:/mipmap-xhdpi/animation_person.png"
+    },
+    {
         "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-hdpi_btn_6.png.flat",
         "source": "com.example.qr_ganerator_android_app-main-35:/drawable-hdpi/btn_6.png"
     },
     {
         "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-xxhdpi_facebook.png.flat",
         "source": "com.example.qr_ganerator_android_app-main-35:/drawable-xxhdpi/facebook.png"
-    },
-    {
-        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-mdpi_person.png.flat",
-        "source": "com.example.qr_ganerator_android_app-main-35:/drawable-mdpi/person.png"
     },
     {
         "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-ldpi_btn_6.png.flat",
@@ -476,8 +484,20 @@
         "source": "com.example.qr_ganerator_android_app-main-35:/drawable-mdpi/btn_6.png"
     },
     {
+        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/mipmap-xxxhdpi_person.png.flat",
+        "source": "com.example.qr_ganerator_android_app-main-35:/mipmap-xxxhdpi/person.png"
+    },
+    {
+        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/mipmap-xxxhdpi_logo_qr.png.flat",
+        "source": "com.example.qr_ganerator_android_app-main-35:/mipmap-xxxhdpi/logo_qr.png"
+    },
+    {
         "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-xhdpi_circle_white_top.png.flat",
         "source": "com.example.qr_ganerator_android_app-main-35:/drawable-xhdpi/circle_white_top.png"
+    },
+    {
+        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/mipmap-xxhdpi_logo_qr.png.flat",
+        "source": "com.example.qr_ganerator_android_app-main-35:/mipmap-xxhdpi/logo_qr.png"
     },
     {
         "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-xxhdpi_btn_2.png.flat",
@@ -498,10 +518,6 @@
     {
         "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-xxxhdpi_login_banner.png.flat",
         "source": "com.example.qr_ganerator_android_app-main-35:/drawable-xxxhdpi/login_banner.png"
-    },
-    {
-        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-xhdpi_ic_action_name.png.flat",
-        "source": "com.example.qr_ganerator_android_app-main-35:/drawable-xhdpi/ic_action_name.png"
     },
     {
         "merged": "com.example.qr_ganerator_android_app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
@@ -526,6 +542,10 @@
     {
         "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-xxxhdpi_btn_3.png.flat",
         "source": "com.example.qr_ganerator_android_app-main-35:/drawable-xxxhdpi/btn_3.png"
+    },
+    {
+        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/mipmap-hdpi_logo_qr.png.flat",
+        "source": "com.example.qr_ganerator_android_app-main-35:/mipmap-hdpi/logo_qr.png"
     },
     {
         "merged": "com.example.qr_ganerator_android_app-merged_res-33:/layout_activity_feature_list.xml.flat",
@@ -572,10 +592,6 @@
         "source": "com.example.qr_ganerator_android_app-main-35:/drawable-xxxhdpi/green_banner.png"
     },
     {
-        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-xhdpi_person.png.flat",
-        "source": "com.example.qr_ganerator_android_app-main-35:/drawable-xhdpi/person.png"
-    },
-    {
         "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-hdpi_twitter.png.flat",
         "source": "com.example.qr_ganerator_android_app-main-35:/drawable-hdpi/twitter.png"
     },
@@ -584,12 +600,20 @@
         "source": "com.example.qr_ganerator_android_app-main-35:/drawable/outline_laptop_mac_24.xml"
     },
     {
-        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "com.example.qr_ganerator_android_app-main-35:/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/mipmap-xxhdpi_animation_person.png.flat",
+        "source": "com.example.qr_ganerator_android_app-main-35:/mipmap-xxhdpi/animation_person.png"
     },
     {
         "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-xhdpi_btn_5.png.flat",
         "source": "com.example.qr_ganerator_android_app-main-35:/drawable-xhdpi/btn_5.png"
+    },
+    {
+        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.qr_ganerator_android_app-main-35:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/mipmap-mdpi_person.png.flat",
+        "source": "com.example.qr_ganerator_android_app-main-35:/mipmap-mdpi/person.png"
     },
     {
         "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-xhdpi_btn_2.png.flat",
@@ -600,12 +624,12 @@
         "source": "com.example.qr_ganerator_android_app-main-35:/drawable-hdpi/btn_5.png"
     },
     {
-        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-hdpi_ic_action_name.png.flat",
-        "source": "com.example.qr_ganerator_android_app-main-35:/drawable-hdpi/ic_action_name.png"
-    },
-    {
         "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-xxxhdpi_google.png.flat",
         "source": "com.example.qr_ganerator_android_app-main-35:/drawable-xxxhdpi/google.png"
+    },
+    {
+        "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable_person.png.flat",
+        "source": "com.example.qr_ganerator_android_app-main-35:/drawable/person.png"
     },
     {
         "merged": "com.example.qr_ganerator_android_app-merged_res-33:/drawable-xhdpi_profile.png.flat",
