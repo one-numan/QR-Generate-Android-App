@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:2:1-31:12
+ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:2:1-52:12
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\hx041w\.gradle\caches\transforms-3\b36e04043944c0cbac9f4e6e25abe76e\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\hx041w\.gradle\caches\transforms-3\fe5722c2d28764b765710ac6c318c6e8\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\hx041w\.gradle\caches\transforms-3\41dcf42bc854479e43f628ab1a52618d\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
@@ -46,27 +46,27 @@ MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\hx041w\.gradle\cach
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\hx041w\.gradle\caches\transforms-3\7035a2135f2972f98fa12a92c56bc089\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\hx041w\.gradle\caches\transforms-3\2ff53fee4bc33a1da5cdbfe55cfab510\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\hx041w\.gradle\caches\transforms-3\a21766c7c1a00190a294c68fee7e28e6\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:2:1-52:12
 	package
 		INJECTED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:2:1-31:12
+		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:2:1-52:12
 		INJECTED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:2:1-31:12
+		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:2:1-52:12
 		INJECTED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:2:1-31:12
+		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:2:1-52:12
 		INJECTED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:5:5-29:19
+ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:5:5-50:19
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\hx041w\.gradle\caches\transforms-3\b36e04043944c0cbac9f4e6e25abe76e\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\hx041w\.gradle\caches\transforms-3\b36e04043944c0cbac9f4e6e25abe76e\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\hx041w\.gradle\caches\transforms-3\fe5722c2d28764b765710ac6c318c6e8\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -103,34 +103,76 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\hx041w\.gradle\cac
 		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:12:9-59
 	android:dataExtractionRules
 		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:7:9-65
-activity#com.example.qr_ganerator_android_app.temp_activity
+activity#com.example.qr_ganerator_android_app.Text_to_qr
 ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:14:9-16:40
 	android:exported
 		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:16:13-37
 	android:name
-		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:15:13-42
-activity#com.example.qr_ganerator_android_app.MainActivity
+		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:15:13-39
+activity#com.example.qr_ganerator_android_app.UPI_to_qr
 ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:17:9-19:40
 	android:exported
 		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:19:13-37
 	android:name
-		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:18:13-41
-activity#com.example.qr_ganerator_android_app.feature_list
-ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:20:9-28:20
+		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:18:13-38
+activity#com.example.qr_ganerator_android_app.Whataspp_to_QR
+ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:20:9-22:40
 	android:exported
-		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:22:13-36
+		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:22:13-37
 	android:name
-		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:21:13-41
+		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:21:13-43
+activity#com.example.qr_ganerator_android_app.Call_to_qr
+ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:24:13-39
+activity#com.example.qr_ganerator_android_app.call_to_qr
+ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:26:9-28:40
+	android:exported
+		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:27:13-39
+activity#com.example.qr_ganerator_android_app.Msg_to_qr
+ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:29:9-31:40
+	android:exported
+		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:30:13-38
+activity#com.example.qr_ganerator_android_app.Url_To_Qr
+ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:33:13-38
+activity#com.example.qr_ganerator_android_app.temp_activity
+ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:35:9-37:40
+	android:exported
+		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:36:13-42
+activity#com.example.qr_ganerator_android_app.MainActivity
+ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:38:9-40:40
+	android:exported
+		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:39:13-41
+activity#com.example.qr_ganerator_android_app.feature_list
+ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:41:9-49:20
+	android:exported
+		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:43:13-36
+	android:name
+		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:42:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:23:13-27:29
+ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:44:13-48:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:24:17-69
+ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:45:17-69
 	android:name
-		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:24:25-66
+		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:45:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:26:17-77
+ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:47:17-77
 	android:name
-		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:26:27-74
+		ADDED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml:47:27-74
 uses-sdk
 INJECTED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\hx041w\AndroidStudioProjects\QRGaneratorAndroidApp\app\src\main\AndroidManifest.xml
