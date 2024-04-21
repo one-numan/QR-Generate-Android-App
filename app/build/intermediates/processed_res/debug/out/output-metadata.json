@@ -4,7 +4,7 @@
     "type": "PROCESSED_RES",
     "kind": "Directory"
   },
-  "applicationId": "com.example.qr_ganerator_android_app",
+  "applicationId": "com.all_qr_generator.qr_ganerator_android_app",
   "variantName": "debug",
   "elements": [
     {

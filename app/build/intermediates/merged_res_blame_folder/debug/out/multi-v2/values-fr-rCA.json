@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.qr_ganerator_android_app-mergeDebugResources-31:/values-fr-rCA/values-fr-rCA.xml",
+            "outputFile": "com.all_qr_generator.qr_ganerator_android_app-mergeDebugResources-31:/values-fr-rCA/values-fr-rCA.xml",
             "map": [
                 {
                     "source": "C:\\Users\\hx041w\\.gradle\\caches\\transforms-3\\8d9343f569df63b726615d18b45679d4\\transformed\\appcompat-1.6.1\\res\\values-fr-rCA\\values-fr-rCA.xml",

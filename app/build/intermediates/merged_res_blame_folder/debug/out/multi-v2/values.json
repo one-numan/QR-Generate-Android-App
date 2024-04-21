@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.qr_ganerator_android_app-mergeDebugResources-31:/values/values.xml",
+            "outputFile": "com.all_qr_generator.qr_ganerator_android_app-mergeDebugResources-31:/values/values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\hx041w\\.gradle\\caches\\transforms-3\\bdeac150b6ce0fcc7996d2b9a9f9c390\\transformed\\startup-runtime-1.1.1\\res\\values\\values.xml",

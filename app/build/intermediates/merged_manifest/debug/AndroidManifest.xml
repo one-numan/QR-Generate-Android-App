@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.qr_ganerator_android_app"
+    package="com.all_qr_generator.qr_ganerator_android_app"
     android:versionCode="1"
     android:versionName="1.0.1" >
 
@@ -9,10 +9,10 @@
         android:targetSdkVersion="34" />
 
     <permission
-        android:name="com.example.qr_ganerator_android_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:name="com.all_qr_generator.qr_ganerator_android_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.example.qr_ganerator_android_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+    <uses-permission android:name="com.all_qr_generator.qr_ganerator_android_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
     <uses-permission android:name="android.permission.CAMERA" /> <!-- Don't require camera, as this requires a rear camera. This allows it to work on the Nexus 7 -->
     <uses-feature
         android:name="android.hardware.camera"
@@ -47,34 +47,34 @@
         android:testOnly="true"
         android:theme="@style/Theme.QRGaneratorAndroidApp" >
         <activity
-            android:name="com.example.qr_ganerator_android_app.Text_to_qr"
+            android:name="com.all_qr_generator.qr_ganerator_android_app.Text_to_qr"
             android:exported="false" />
         <activity
-            android:name="com.example.qr_ganerator_android_app.UPI_to_qr"
+            android:name="com.all_qr_generator.qr_ganerator_android_app.UPI_to_qr"
             android:exported="false" />
         <activity
-            android:name="com.example.qr_ganerator_android_app.Whataspp_to_QR"
+            android:name="com.all_qr_generator.qr_ganerator_android_app.Whataspp_to_QR"
             android:exported="false" />
         <activity
-            android:name="com.example.qr_ganerator_android_app.Call_to_qr"
+            android:name="com.all_qr_generator.qr_ganerator_android_app.Call_to_qr"
             android:exported="false" />
         <activity
-            android:name="com.example.qr_ganerator_android_app.call_to_qr"
+            android:name="com.all_qr_generator.qr_ganerator_android_app.call_to_qr"
             android:exported="false" />
         <activity
-            android:name="com.example.qr_ganerator_android_app.Msg_to_qr"
+            android:name="com.all_qr_generator.qr_ganerator_android_app.Msg_to_qr"
             android:exported="false" />
         <activity
-            android:name="com.example.qr_ganerator_android_app.Url_To_Qr"
+            android:name="com.all_qr_generator.qr_ganerator_android_app.Url_To_Qr"
             android:exported="false" />
         <activity
-            android:name="com.example.qr_ganerator_android_app.temp_activity"
+            android:name="com.all_qr_generator.qr_ganerator_android_app.temp_activity"
             android:exported="false" />
         <activity
-            android:name="com.example.qr_ganerator_android_app.MainActivity"
+            android:name="com.all_qr_generator.qr_ganerator_android_app.MainActivity"
             android:exported="false" />
         <activity
-            android:name="com.example.qr_ganerator_android_app.feature_list"
+            android:name="com.all_qr_generator.qr_ganerator_android_app.feature_list"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -85,7 +85,7 @@
 
         <provider
             android:name="androidx.startup.InitializationProvider"
-            android:authorities="com.example.qr_ganerator_android_app.androidx-startup"
+            android:authorities="com.all_qr_generator.qr_ganerator_android_app.androidx-startup"
             android:exported="false" >
             <meta-data
                 android:name="androidx.emoji2.text.EmojiCompatInitializer"
